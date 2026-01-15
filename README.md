@@ -4,6 +4,12 @@ A simple landing page that satirically showcases **high-priced NFTs**, built to 
 
 ---
 
+## 📸 Screenshot
+
+<img src="./images/project-screenshot.png" alt="An-NFT-Site landing page screenshot" width="700" />
+
+---
+
 ## 📖 About the Project
 
 **An-NFT-Site** is a static landing page that humorously presents fictional NFT products with exaggerated pricing.  
