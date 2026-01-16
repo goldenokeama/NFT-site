@@ -4,6 +4,12 @@ A simple landing page that satirically showcases **high-priced NFTs**, built to 
 
 ---
 
+## 🔗 Live Demo
+
+[**Try the NFT-SIte here**](https://nft-site-golden.netlify.app/).
+
+---
+
 ## 📸 Screenshot
 
 <img src="./images/project-screenshot.png" alt="An-NFT-Site landing page screenshot" width="700" />
