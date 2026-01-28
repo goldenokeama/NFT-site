@@ -6,7 +6,7 @@ A simple landing page that satirically showcases **high-priced NFTs**, built to 
 
 ## 🔗 Live Demo
 
-[**Try the NFT-SIte here**](https://nft-site-golden.netlify.app/).
+[**Try the NFT-Site here**](https://nft-site-golden.netlify.app/).
 
 ---
 
