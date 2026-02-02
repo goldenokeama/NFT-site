@@ -94,14 +94,14 @@ header,
 }
 
 .container {
-  width: 72%;
+  width: 95%;
   margin: 0 auto;
 }
 
-// Shrinking the desktop design
-@media (max-width: 768px) {
+/* expanding the mobile design */
+@media (min-width: 620px) {
   .container {
-    width: 95%;
+    width: 75%;
   }
 }
 
@@ -111,12 +111,26 @@ header,
 
 .section-two-image-container {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  gap: 5px;
+}
+/* expanding the mobile design */
+@media (min-width: 620px) {
+  .section-two-image-container {
+    flex-direction: row;
+    justify-content: space-between;
+  }
 }
 
 .feature-image {
-  width: 48%;
+  width: 100%;
   border-radius: 4.6px;
+}
+/* expanding the mobile design */
+@media (min-width: 620px) {
+  .feature-image {
+    width: 48%;
+  }
 }
 
 footer {
