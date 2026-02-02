@@ -73,6 +73,7 @@ a:active {
 
 /* layout */
 .main-container {
+  width: 90%;
   max-width: 860px;
   margin: 0 auto;
 }
@@ -93,8 +94,15 @@ header,
 }
 
 .container {
-  width: 620px;
+  width: 72%;
   margin: 0 auto;
+}
+
+// Shrinking the desktop design
+@media (max-width: 768px) {
+  .container {
+    width: 95%;
+  }
 }
 
 .main-image {
@@ -107,7 +115,7 @@ header,
 }
 
 .feature-image {
-  width: 300px;
+  width: 48%;
   border-radius: 4.6px;
 }
 
